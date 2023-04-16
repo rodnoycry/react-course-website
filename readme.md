@@ -15,25 +15,19 @@
 <h2>
  Урок #0 - Создание и первичная настройка проекта
 </h2>
-<h3>
   Ссылка на урок: https://youtu.be/FLoADQGOudk
   Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_0
-</h3>
 
 <h2>
  Урок #1 - TypeScript, ESLint + Prettier, Jest + Husky
 </h2>
-<h3>
   Ссылка на урок: https://youtu.be/6YnBCZUOp9k
   Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_1
-</h3>
 
 <h2>
  Урок #1 - CSS modules, enzyme, VSCode Jest integration, Hello world app
 </h2>
-<h3>
   Ссылка на урок: В процессе монтажа
   Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_2
-</h3>
 
 Видео будут добавляться по мере создания курса
