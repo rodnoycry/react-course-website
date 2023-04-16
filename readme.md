@@ -21,13 +21,23 @@
 <h2>
  Урок #1 - TypeScript, ESLint + Prettier, Jest + Husky
 </h2>
-Ссылка на урок: https://youtu.be/6YnBCZUOp9k
-Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_1
+<p>
+  Ссылка на урок: https://youtu.be/6YnBCZUOp9k
+</p>
+<p>
+  Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_1
+</p>
 
 <h2>
- Урок #1 - CSS modules, enzyme, VSCode Jest integration, Hello world app
+ Урок #2 - CSS modules, enzyme, VSCode Jest integration, Hello world app
 </h2>
-Ссылка на урок: В процессе монтажа
-Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_2
+<p>
+  Ссылка на урок: В процессе монтажа
+</p>
+<p>
+  Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_2
+</p>
 
-Видео будут добавляться по мере создания курса
+<p>
+  Видео будут добавляться по мере создания курса
+</p>
