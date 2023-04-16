@@ -15,8 +15,12 @@
 <h2>
  Урок #0 - Создание и первичная настройка проекта
 </h2>
-Ссылка на урок: https://youtu.be/FLoADQGOudk
-Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_0
+<p>
+  Ссылка на урок: https://youtu.be/FLoADQGOudk
+</p>
+<p>
+  Проект урока: https://github.com/rodnoycry/react-demo-website/tree/lesson_0
+</p>
 
 <h2>
  Урок #1 - TypeScript, ESLint + Prettier, Jest + Husky
